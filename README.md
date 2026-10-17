@@ -8,7 +8,7 @@ An audit of the Culver City Historical Society (CCHS) archive database to improv
 
 ## Objectives
 
-- Audit the existing archive database and identify inconsistencies in record categories.
+- Audit the existing archive database and identify inconsistencies in object record categories.
 - Clean and consolidate the existing category vocabulary.
 - Develop controlled object type and subject taxonomies.
 - Improve database searchability and support interoperability of archival records.
